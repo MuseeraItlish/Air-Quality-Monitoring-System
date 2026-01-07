@@ -27,3 +27,16 @@ The project is built using an Arduino Mega, various gas and dust sensors, and a 
 
 -LEDs, buzzer, resistors, capacitors, breadboard, and connecting wires
 
+## Future Scope
+
+-Integration with smart city applications for real-time pollution tracking.
+
+-Use of advanced and compact sensors for improved accuracy.
+
+-Application of AI and Big Data for predicting pollution trends.
+
+-Linking air quality data with personal health monitoring devices.
+
+-Public awareness through mobile apps or web platforms.
+
+-Monitoring during emergencies like wildfires or industrial accidents.
